@@ -20,5 +20,5 @@
   <a href="https://www.jetbrains.com/fr-fr/idea/"><img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ"></a>
 </div>
 <div>
-  <a href="https://www.cursor.com/"><img style="width: 50px; height: 50px;" src="https://en.wikipedia.org/wiki/Cursor_(code_editor)#/media/File:Cursor_(code_editor).png" alt="Cursor"></a>
+  <a href="https://www.cursor.com/"><img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/en/9/9c/Cursor_%28code_editor%29.png" alt="Cursor"></a>
 </div>
